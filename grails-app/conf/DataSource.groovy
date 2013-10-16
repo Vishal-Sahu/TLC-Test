@@ -50,7 +50,7 @@ environments {
         dataSource {
             url = 'jdbc:mysql://localhost:3306/test'
             username = 'root'
-            password = 'igdefault'
+            password = 'accounts'
         }
     }
 }
